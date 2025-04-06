@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'stentiga';
+   font-display: swap;
+   src: url('stentiga/font.ttf');
+}
+@font-face {
+   font-family: 'jolana.regular';
+   font-display: swap;
+   src: url('jolana.regular/font.ttf');
+}
